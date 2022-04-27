@@ -18,4 +18,7 @@ public class testclass{
     public Integer testclass3(int a,int b){
         return a+b;
     }
+    public Integer testclass4(int a,int b){
+        return a+b;
+    }
 }
